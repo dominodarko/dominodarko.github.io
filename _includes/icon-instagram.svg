@@ -1,0 +1,5 @@
+<script>
+
+jQuery(".socialIcons>li:last").after('<li class="instagram15"><a target="_self" href="http://instagram.com/veliab?ref=badge"><img class="instaicon" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Instagram-32.png"></a></li>');
+
+</script>
