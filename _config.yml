@@ -7,14 +7,14 @@
 
 # Site settings
 title: Slide Effect
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Sprottys adventures around the globe. Proudly Sproz since 2014.
+ Just bad ideas. 
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://slideffect.com" # the base hostname & protocol for your site
-twitter_username: nonlosoèunaprova
-instagram_username:  veliab
+twitter_username: 
+instagram_username:  
 
 # Build settings
 markdown: kramdown
